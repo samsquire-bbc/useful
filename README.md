@@ -8,3 +8,9 @@ Consume from kafka-uced-a:9092 quietly on topic repository-resource-provisioning
 ```
 kubectl get pods | grep deployment name
 ```
+
+# workflow
+
+1. ./run-dev.sh
+1. kubeconfig test
+1. set-aws-credentials test
