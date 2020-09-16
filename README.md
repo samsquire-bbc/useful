@@ -14,3 +14,7 @@ kubectl get pods | grep deployment name
 1. ./run-dev.sh
 1. kubeconfig test
 1. set-aws-credentials test
+
+# Zoom group
+
+* https://bbc.zoom.us/j/92021967442
