@@ -17,4 +17,7 @@ kubectl get pods | grep deployment name
 
 # Zoom group
 
-* https://bbc.zoom.us/j/92021967442
+* https://bbc.zoom.us/j/4969265828
+
+
+
